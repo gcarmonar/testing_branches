@@ -5,7 +5,7 @@
 *   
 */
 
-#define TYPE_A
+#define TYPE_B
 
 #if defined(TYPE_A)
 	#include "typeA.h"
